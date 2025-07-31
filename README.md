@@ -118,6 +118,10 @@ virtual-try-on/
 └── results/                # Generated results (created at runtime)
 ```
 
+## Screenshots
+<img width="1920" height="1080" alt="Screenshot 2025-07-31 113341" src="https://github.com/user-attachments/assets/545b2e3f-4dd0-41ee-b682-a19910ca58e3" />
+
+
 ## Limitations
 
 - The quality of the try-on result depends on the quality of the input images
